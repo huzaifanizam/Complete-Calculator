@@ -1,4 +1,7 @@
+## Web View
 <img src="./img/1.web.png" alt="GitHUB" align="center" >
+
+## Mobile View
 <img src="./img/2.mobileCalculater.png" alt="GitHUB" align="center" >
 
 
